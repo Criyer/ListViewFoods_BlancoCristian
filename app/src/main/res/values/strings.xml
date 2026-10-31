@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Comidas</string>
+    <string name="initial_selection">SELECT A MEAL</string>
+    <string name="selected_prefix">Selected: </string>
+</resources>
